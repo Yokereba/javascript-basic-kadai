@@ -3,9 +3,9 @@ for (let i = 0; i <= 15; i += 1) {
     console.log(holidays[i]);
 }
 
-let I = 0
+let i = 0
 
-while (I < 16){
-    console.log(holidays[I]);
-    I++;
+while (i < 16){
+    console.log(holidays[i]);
+    i++;
 }
